@@ -1,0 +1,20 @@
+{
+    "P001": {
+        "name": "Maruf Hasan",
+        "age": 25,
+        "gender": "Male",
+        "disease": "Fever"
+    },
+    "P002": {
+        "name": "Ayesha Siddiqa",
+        "age": 30,
+        "gender": "Female",
+        "disease": "Diabetes"
+    },
+    "P003": {
+        "name": "Rahim Uddin",
+        "age": 45,
+        "gender": "Male",
+        "disease": "Hypertension"
+    }
+}
